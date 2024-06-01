@@ -38,9 +38,7 @@ The application includes robust error handling:
 - **File Access Issues**: Handles file access permissions and missing files gracefully by notifying the user.
 
 ### 6. Additional Features (Future Enhancements)
-- **Image Editing**: Basic image editing features like rotate, crop, and resize.
-- **Slideshow**: Automatically cycle through images in the current directory.
-- **Metadata Display**: Show metadata information such as image resolution, size, and creation date.
+- **Image Editing**: Basic image editing features like rotate,resize.
 
 ## Features
 - Browse images in a directory using a directory tree.
